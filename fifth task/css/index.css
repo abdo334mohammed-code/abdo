@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lala{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+.aaa{
+    width: calc((100% 3*15px)/8);
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.one{
+    color: grey;
+}
+h4{
+    color: black;
+    font-size: 24px;
+
+}
+.baba{
+    font-size: 15px;
+}
+.nana{
+    display: flex;
+    gap: 15px;
+}
+.aaa{
+    width: calc((100% 3*15px)/4);
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+.one{
+    color: grey;
+}
+h4{
+    color: black;
+    font-size: 24px;
+
+}
+.baba{
+    font-size: 15px;
+}
